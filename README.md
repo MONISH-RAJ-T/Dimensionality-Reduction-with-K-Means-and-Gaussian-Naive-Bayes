@@ -66,4 +66,4 @@ This project highlights the effectiveness of dimensionality reduction in improvi
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For any inquiries or feedback, please contact [Your Email/Contact Information].
+For any inquiries or feedback, please contact [monishraj2k5@gmail.com].
