@@ -55,9 +55,9 @@ This project demonstrates the use of dimensionality reduction techniques and Gau
 - `requirements.txt`: List of required Python libraries.
 
 ## Results
-- **Accuracy with 561 features:** [Your metric here].
-- **Accuracy with 50 features:** [Your metric here].
-- **Training time comparison:** [Your timing details here].
+- **Accuracy with 561 features:** [0.731475186947654].
+- **Accuracy with 50 features:** [0.843643779416724].
+- **Training time comparison:** [0.0632 seconds].
 
 ## Conclusion
 This project highlights the effectiveness of dimensionality reduction in improving machine learning model efficiency. By reducing the feature set with K-Means, the Gaussian Naive Bayes classifier achieves better accuracy and significantly reduces training time.
